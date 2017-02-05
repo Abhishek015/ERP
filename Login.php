@@ -33,8 +33,7 @@ font-size: 15px;
 		 font-size:15px;
 		 padding:18px;
 		 border-radius:3px;
-		 border:1px solid #ddd;
-		 
+		 border:1px solid #ddd; 
 		 }
 		 input[type=submit]{
 		 background-color:blue;
